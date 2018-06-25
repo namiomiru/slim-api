@@ -5,8 +5,8 @@
 Folder System
 ---------------
 * app
-    /Controller
-    /Models 
+    * /Controller
+    * /Models 
 * bootstrap
 * config/
     * database.php (database information settings)
