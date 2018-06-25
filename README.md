@@ -1,7 +1,4 @@
-# AlbumProject
-
-## Installation
-### CocoaPods
+# Slim-api
 
 1. slim-api
 
