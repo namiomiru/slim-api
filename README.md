@@ -4,10 +4,12 @@
 
 Folder System
 ---------------
+* app
+    /Controller
+    /Models 
+* bootstrap
 * config/
     * database.php (database information settings)
-* models/ 
-* controller
 * public/
 * routers/
 	* api.php (routes by functionalities)
